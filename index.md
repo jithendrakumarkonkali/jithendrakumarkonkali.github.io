@@ -19,8 +19,8 @@ Currently living in Hyderabad.I had my schooling from CHS.
 
 |Academic Year                |Standard              |School Name                         |
 |----------------|-------------------------------|-----------------------------|
-|2021-22|11-th|Narayana junoior college|
-|2022-23|12-th|Narayana junoior college|
+|2021-22|11-th|Narayana college|
+|2022-23|12-th|Narayana college|
 |2023-27|B-Tech|IIT GOA|
 
 ## Course @ IIT Goa
