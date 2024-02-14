@@ -45,5 +45,5 @@ Currently living in Hyderabad.I had my schooling from CHS.
 ## Interests
 
 - I have find my interest in the **esports** zone
-Also I follow certain global tournaments held across the world back in the days.
+Also I'd followed certain global tournaments held across the world back in the days.
 
