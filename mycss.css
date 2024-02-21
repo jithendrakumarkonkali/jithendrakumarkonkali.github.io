@@ -1,10 +1,10 @@
 .about {
-	border:2px solid;
-	background-color:light salmon;
+	border: 2px solid;
+	background-color: light salmon;
 }
 
 .info {
-	display:flex;
+	display: flex;
 }
 
 #name {
