@@ -1,31 +1,31 @@
-.about {
-	border: 2px solid;
-	background-color: light salmon;
+.about{
+	border:2px solid;
+	background-color:lightsalmon;
 }
 
-.info {
-	display: flex;
+.info{
+	display:flex;
 }
 
-#name {
+#name{
 	font-weight:bold;
 	font-family:Times New Roman;
 	font-size:13px;
 	align-item:left;
 }
 
-#image {
+#image{
 	width:172px;
 	height:172px;
 	align-item:right;
 }
 
-#context {
+#context{
 	font-family:sans-serif;
 	color:blue;
 }
 
-.table {
+.table{
 	border:3px solid;
 	boder-color:black;
 	background-color:light blue;
@@ -33,43 +33,43 @@
 	border-spacing:5px;
 }
 
-.row1 {
+.row1{
 	text-decoraction:underline;
 }
 
-#academic {
+#academic{
 	text-align:left;
 }
-#standard { 
+#standard{ 
 	text-align:center;
 }
-#school {
+#school{
 	text-align:left;
 }
 
-.course {
+.course{
 	dislpay:flex;
 }
 
-.semester2 {
+.semester2{
 	border:3px solid black;
 	backgroun-color:green;
 }
 
-.semester1 {
+.semester1{
 	border:3px solid black;
 	backgroun-color:light pink;
 }
 
-#code {
+#code{
 	font-weight:bold;
 }
 
-#instructor {
+#instructor{
 	font-style:italic;
 }
 
-.hobbies {
+.hobbies{
 	background-color:beige;
 	border:3px solid black;
 	font-family:Arial;
